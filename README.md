@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @karthikgogisetty
-- 👀 I’m interested in AI| Sports| Robotics
 - 🌱 I’m currently learning Triton
-- 🚀 I’m looking to collaborate on various `ML Projects`
+- 📍 Hyderabad, India ✈️ Mumbai, India
+- 👀 I’m interested in AI| Sports| Robotics
 - 📫 How to reach me `karthikgogisetty@gmail.com`
+- 🚀 I’m looking to collaborate on various `ML Projects`
 - 😊 Fun fact: Writing code is fun until you have to explain it to future you.
-- 📍 Hyderabad, India 
 ---
 
 ## 📈 GitHub Stats
