@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthik Gogisetty</h1>
-<h3 align="center">AI • Robotics • Sports • ML Engineer</h3>
+<h3 align="center">AI • Robotics • Sports • AI Engineer</h3>
 
 <p align="center">
   🌱 Currently learning <b>Triton</b> • 🤖 Robotics & AI enthusiast • 🚀 Open to ML collaborations
